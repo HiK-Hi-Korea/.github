@@ -26,8 +26,9 @@ Group Project - Team GoT(Gang of Three)
 ### Service Architecture
 ### Technology Used
 - Spring boot
-- Amazon RDS S3
+- Amazon S3
 - Amazon EC2
+- MySQL
 - 
 ### Code
 - [BE](https://github.com/HiK-Hi-Korea/HiK-Server)
